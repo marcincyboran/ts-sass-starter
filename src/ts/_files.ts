@@ -1,1 +1,1 @@
-import '../assets/cat.jpg'
+// import '../assets/xxx.yyy'
